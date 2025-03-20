@@ -39,9 +39,13 @@ Books can be returned anytime, removing them from the borrowed list in Firebase.
 🛠️ Tech Stack
 
 ✅ React Native (Expo) – For cross-platform development.
+
 ✅ Firebase Firestore – Stores books and borrowed data.
+
 ✅ React Navigation – Manages app navigation.
+
 ✅ AsyncStorage – Manages local data caching.
+
 
 
 
